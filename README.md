@@ -1,1 +1,1 @@
-# SQLi
+# Python exam
